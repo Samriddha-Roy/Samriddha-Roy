@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./itachi-sharingan.gif" width="800">
+  <img src="./itachi.gif" width="800">
 </p>
